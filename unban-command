@@ -1,0 +1,7 @@
+$nomention $unban
+$onlyAdmin[You do not have permission to execute this command.]
+$title[Unban]
+$description[
+**Unbanned**: $<@mentioned>
+**Unbanned by**: $username
+$dm
