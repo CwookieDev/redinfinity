@@ -1,0 +1,5 @@
+$nomention
+$onlyAdmin[You are not permitted to execute this command.]
+$title[Reminder]
+$description[$message]
+$footer[Message announced by: $username]
