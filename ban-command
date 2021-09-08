@@ -5,3 +5,4 @@ $description[
 **Banned**: $<@mentioned>
 **Banned by**: $username
 **Reason**: $message
+$dm
