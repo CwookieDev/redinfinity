@@ -1,0 +1,7 @@
+$nomention $ban
+$onlyAdmin[You do not have permission to execute this command.]
+$title[Ban]
+$description[
+**Banned**: $<@mentioned>
+**Banned by**: $username
+**Reason**: $message
