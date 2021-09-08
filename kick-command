@@ -1,0 +1,8 @@
+$nomention $kick
+$onlyAdmin[You do not have permission to execute this command.]
+$title[Kick]
+$description[
+**Kicked**: $<@mentioned>
+**Kicked by**: $username
+**Reason**: $message
+$dm
