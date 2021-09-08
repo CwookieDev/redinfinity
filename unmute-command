@@ -1,0 +1,7 @@
+$nomention $unmute
+$onlyAdmin[You do not have permission to execute this command.]
+$title[Unmute]
+$description[
+**Unmuted**: $<@mentioned>
+**Unmuted by**: $username
+$dm
