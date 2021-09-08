@@ -5,3 +5,4 @@ $description[
 **Muted**: $<@mentioned>
 **Muted by**: $username
 **Reason**: $message
+$dm
