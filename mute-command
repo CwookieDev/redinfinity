@@ -1,0 +1,7 @@
+$nomention $mute
+$onlyAdmin[You do not have permission to execute this command.]
+$title[Mute]
+$description[
+**Muted**: $<@mentioned>
+**Muted by**: $username
+**Reason**: $message
